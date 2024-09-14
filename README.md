@@ -60,9 +60,7 @@ A simple web-based application that allows users to request a 2 SOL airdrop on t
 
 ---
 
-## Screenshot
 
-![Solana Airdrop Web App Screenshot](image-url)
 
 ---
 
