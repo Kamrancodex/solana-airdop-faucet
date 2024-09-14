@@ -1,6 +1,6 @@
 # Solana Airdrop Web App
 
-![Solana Airdrop Web App](/thumbnail.png)
+![Solana Airdrop Web App](thumbnail.png)
 
 A simple web-based application that allows users to request a 2 SOL airdrop on the Solana Devnet by entering their wallet address. Built using React, Tailwind CSS, and Solana's Web3.js.
 
